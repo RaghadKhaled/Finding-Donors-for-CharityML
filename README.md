@@ -6,11 +6,14 @@ I have gained good expertise on this approach. Congrats to me for finishing this
 
 ## Project Overview
 In this project, I applied supervised learning techniques on data collected for the US census to help CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause. Finding potential donors for a charity involves analyzing data about the US population and grouping that population by similar interests/traits that can help identify likely donors.
-Explore the data to learn how the census data is recorded.
-Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format.
-Evaluate several supervised learners on the data and consider which is best suited for the solution.
-Optimize the selected model and present it as a solution to CharityML.
-Finally, explore the chosen model and its predictions under the hood, to see how well it's performing.
+I get acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
+
+- Explore the data to learn how the census data is recorded.
+- How to identify when preprocessing is needed, and how to apply it.
+- Apply a series of transformations and preprocessing techniques to manipulate the data into a workable format.
+- Evaluate several supervised learners on the data and consider which is best suited for the solution.
+- Optimize the selected model and present it as a solution to CharityML.
+- Finally, explore the chosen model and its predictions under the hood, to see how well it's performing.
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
